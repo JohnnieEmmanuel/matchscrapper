@@ -1,3 +1,4 @@
+//currently scrapping just 25 league games . we will increase this later when we modify for latency sake 
 import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
